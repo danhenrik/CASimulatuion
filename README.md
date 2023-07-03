@@ -1,3 +1,3 @@
 # CASimulatuion
 
-python simulations.py <ruleNumber> <lineSize>
+python simulations.py `ruleNumber` `lineSize`
